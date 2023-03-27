@@ -1,6 +1,6 @@
 <img align="right" width="32%" src="photo_2023-01-28_13-01-08.png">
 <h1>Irasshaimase~ (｡･∀･)ﾉﾞ</h1>
-<h3>My name is 🜁♪$☢✉☯, I'm from City of Demons (Russia) (~･-･~)</h3>
+<h3>My name is 🜁♪$☢✉☯</h3>
 <h4>I'm a Computer Science student</h4>
 <br/>
 <h4>I develop web applications, server programs and desktop applications.</h4>
