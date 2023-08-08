@@ -1,7 +1,8 @@
 <!--img align="right" width="32%" src="photo_2023-01-28_13-01-08.png" -->
 <h1>Irasshaimase~ (｡･∀･)ﾉﾞ</h1>
 <!--h3>My name is 🜁♪$☢✉☯</h3> -->
-<h4>I'm a software developer</h4> 
+<h4>I'm a 19 y.o. software developer</h4> 
+<h4>I enjoy playing games, watch anime and read manga.</h4>
 <!--
 <br/>
 <h4>I develop web applications, server programs and desktop applications.</h4>
